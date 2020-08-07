@@ -1,1 +1,1 @@
-# woof: TInder for dogs
+# woof: Tinder for dogs
